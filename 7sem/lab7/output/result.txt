@@ -1,0 +1,44 @@
+phrase:      ПРИВЕТВИДЕЛТЕБЯНАФИЗРЕДАВАЙПОЗНАКОМИМСЯ
+detected:    ЦИМДДЗДМДДЙЗДДМЫЯЖМЕИДДЯДЯДЦМЕЫЯБМЩМЩЦМ
+correct:     6%
+
+has | got | correct
+П	Ц	False
+Р	И	False
+И	М	False
+В	Д	False
+Е	Д	False
+Т	З	False
+В	Д	False
+И	М	False
+Д	Д	True
+Е	Д	False
+Л	Й	False
+Т	З	False
+Е	Д	False
+Б	Д	False
+Я	М	False
+Н	Ы	False
+А	Я	False
+Ф	Ж	False
+И	М	False
+З	Е	False
+Р	И	False
+Е	Д	False
+Д	Д	True
+А	Я	False
+В	Д	False
+А	Я	False
+Й	Д	False
+П	Ц	False
+О	М	False
+З	Е	False
+Н	Ы	False
+А	Я	False
+К	Б	False
+О	М	False
+М	Щ	False
+И	М	False
+М	Щ	False
+С	Ц	False
+Я	М	False
